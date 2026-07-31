@@ -1,0 +1,6 @@
+{
+  "name": "AirWeather",
+  "description": "A premium, Apple & Samsung One UI inspired weather application with dynamic themes, Open-Meteo API forecasts, interactive maps, hourly/7-day trends, AQI, and offline support.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
